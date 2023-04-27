@@ -1,0 +1,32 @@
+* {
+    background-color: red;
+    text-align: center;
+    font-family: 'Coca Cola ii', sans-serif;
+}
+
+h1, h2 {
+    font-size: 40px;
+    color: #fff;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.img {
+    float: left;
+}
+
+.btn {
+    background-color: azure;
+    color: black;
+    font-size: 30px;
+}
+
+.input {
+    height: 30px;
+    background-color: azure;
+    font-size: 30px;
+}
+
+
